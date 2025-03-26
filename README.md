@@ -1,5 +1,7 @@
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
 <h1 align="center">Hi 👋, I'm Shivam Sharma</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
+<img align="right" alt="Coding" width="400"src= "https://imgs.search.brave.com/CYcMIZ8cqETgR3yxdYZdDxYsbNAcZpI89FVnRE20BJU/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9naWZk/Yi5jb20vaW1hZ2Vz/L2hpZ2gvaS1tLWNv/ZGluZy1tYWNoaW5l/LWFuaW1hdGlvbi1j/ODV0MHNvNWhwaTQ1/cXc1LmdpZg.gif">
 
 - 🌱 I’m currently learning **frameworks, c++**
 
@@ -11,6 +13,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://twitter.com/shivam_sharma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shivam_sharma" height="30" width="40" /></a>
+<a href="https://instagram.com/shiva_m0906" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shiva_m0906" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
