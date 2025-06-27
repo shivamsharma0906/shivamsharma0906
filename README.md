@@ -24,4 +24,3 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shivamsharma0906&show_icons=true&locale=en" alt="shivamsharma0906" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shivamsharma0906&" alt="shivamsharma0906" /></p>
