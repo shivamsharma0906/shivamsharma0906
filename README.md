@@ -17,7 +17,7 @@
 <h3 align="left">🌐 Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/shivam_sharma" target="blank"><img src="https://img.shields.io/twitter/follow/shivam_sharma?logo=twitter&style=for-the-badge" alt="twitter"/></a>
-<a href="https://instagram.com/shiva_m0906" target="blank"><img src="https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge" alt="instagram"/></a>
+<a href="https://instagram.com/shiva__m0906" target="blank"><img src="https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge" alt="instagram"/></a>
 <a href="mailto:shivam17sharma2004@gmail.com" target="blank"><img src="https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white&style=for-the-badge" alt="gmail"/></a>
 </p>
 
