@@ -30,7 +30,6 @@ I build clean, scalable web applications with a strong focus on user experience,
 - **[VisionOS](https://github.com/shivamsharma0906/VisionOS)** — A personal Life Operating System focused on productivity, deep work, and personal goal tracking.
 - **[Upasthiti](https://github.com/shivamsharma0906/Upasthiti)** — A college attendance and academic management platform featuring QR-based attendance, timetables, and role-based access.
 - **[AttendX](https://github.com/shivamsharma0906/AttendX)** — An employee attendance and salary management system.
-- **[E-Commerce Website](https://github.com/shivamsharma0906/e-commerce-website)** — An e-commerce web application.
 - **[Navya — E-Commerce Website](https://navya-kohl.vercel.app/)** — A live e-commerce web application focused on product presentation and online shopping experience.
 ---
 
